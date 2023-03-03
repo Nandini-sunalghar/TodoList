@@ -1,5 +1,5 @@
-import './App.css';
-import Form from './TodoList/Form';
+import "./App.css";
+import Form from "./TodoList/Form";
 
 function App() {
   return (
