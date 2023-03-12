@@ -1,11 +1,11 @@
 import "./App.css";
-import Form from "./TodoList/Form";
+import List from "./TodoList/List";
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Todo list</h1>
-      <Form />
+      <List/>
     </div>
   );
 }
